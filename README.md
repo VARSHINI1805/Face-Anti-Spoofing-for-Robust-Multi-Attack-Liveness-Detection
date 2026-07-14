@@ -123,7 +123,6 @@ Authentication is granted only when a live face is detected.
 - Digital Identity Verification
 - E-Government Services
 
----
 
 
 
